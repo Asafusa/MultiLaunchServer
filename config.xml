@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
-<SunariaLauncher></SunariaLauncher>
-<NostalgLauncher></NostalgLauncher>
+<SunariaLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/sunaria.xml</SunariaLauncher>
+<NostalgLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/nostalg.xml</NostalgLauncher>
 </config>
