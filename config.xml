@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<!-- NOM AFFICHER SUR LE LAUNCHER -->
+ <name>Spirit</name>
+<!--  EXECUTABLE DU JEU -->
+<executable>Dofus.exe</executable>
+<!-- UPDATE LINK -->
+<download>http://185.224.134.86/update/app</download>
+<!-- DISCORD LINK -->
+<discord>https://discord.gg/invite/</discord>
+<!-- WEBSITE LINK -->
+<website>http://new.nostalg-play.eu/</website>
+</config>
