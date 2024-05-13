@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<Nostalg>
 <name>Nostalg</name>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/favicon.ico</icon>
 <executable>Nostalg.exe</executable>
 <download></download>
+</Nostalg>
