@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<toutankarton>
+<ToutAnkarton>
 <name>Tout'Ankarton</name>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/favicon.ico</icon>
 <executable>Ankarton.exe</executable>
 <download></download>
 <apy></apy>
-</toutankarton>
+</ToutAnkarton>
