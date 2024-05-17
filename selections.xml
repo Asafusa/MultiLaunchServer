@@ -2,17 +2,17 @@
 <selections>
   <server id="1">
     <name>Nostalg</name>
-    <icon></icon>
+    <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/nostalg.png</icon>
   </server>
 
   <server id="2">
     <name>Sunaria</name>
-    <icon></icon>
+    <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/sunaria.png</icon>
   </server>
 
   <server id="3">
     <name>Tout'Ankarton</name>
-    <icon></icon>
+    <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.png</icon>
   </server>
       
 </selection>
