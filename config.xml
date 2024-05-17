@@ -3,5 +3,6 @@
 <server>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/server.xml</server>
 <SunariaLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/sunaria.xml</SunariaLauncher>
 <NostalgLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/nostalg.xml</NostalgLauncher>
+<ToutAnkartonLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.xml</ToutAnkartonLauncher>
 <devmode>yes</devmode>
 </config>
