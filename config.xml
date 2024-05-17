@@ -3,4 +3,5 @@
 <server>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/server.xml</server>
 <SunariaLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/sunaria.xml</SunariaLauncher>
 <NostalgLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/nostalg.xml</NostalgLauncher>
+<devmode>yes</devmode>
 </config>
