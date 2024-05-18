@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <server>
-<maxserver>5</maxserver>
+<maxserver>3</maxserver>
 <availableserver id="1">Nostalg</availableserver>
 <availableserver id="2">Sunaria</availableserver>
 <availableserver id="3">ToutAnkarton</availableserver>
-  <availableserver id="4">ToutAnkarton</availableserver>
-  <availableserver id="5">ToutAnkarton</availableserver>
 </server>
