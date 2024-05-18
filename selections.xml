@@ -4,15 +4,12 @@
     <name>NOSTALG V2&#xA;SEMI-LIKE</name>
     <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/nostalg.png</icon>
   </server>
-
   <server id="2">
     <name>SUNARIA V2&#xA;CHEAT</name>
     <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/sunaria.png</icon>
   </server>
-
   <server id="3">
     <name>TOUT'ANKARTON&#xA;CHEAT</name>
     <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.png</icon>
   </server>
-      
 </selections>
