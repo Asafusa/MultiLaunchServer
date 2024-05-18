@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ToutAnkarton>
-<name>Tout'Ankarton</name>
+<name>ToutAnkarton</name>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.png</icon>
 <executable>Ankarton.exe</executable>
 <download></download>
