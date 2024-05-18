@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <selections>
   <server id="1">
-    <name>Nostalg</name>
+    <name>NOSTALG V2&#xA;SEMI-LIKE</name>
     <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/nostalg.png</icon>
   </server>
 
   <server id="2">
-    <name>Sunaria</name>
+    <name>SUNARIA V2&#xA;CHEAT</name>
     <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/sunaria.png</icon>
   </server>
 
   <server id="3">
-    <name>Tout'Ankarton</name>
+    <name>TOUT'ANKARTON&#xA;CHEAT</name>
     <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.png</icon>
   </server>
       
