@@ -12,4 +12,12 @@
     <name>TOUT'ANKARTON&#xA;CHEAT</name>
     <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.png</icon>
   </server>
+  <server id="4">
+    <name>TOUT'ANKARTON&#xA;CHEAT 2</name>
+    <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.png</icon>
+  </server>
+  <server id="5">
+    <name>TOUT'ANKARTON&#xA;CHEAT 3</name>
+    <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.png</icon>
+  </server>
 </selections>
