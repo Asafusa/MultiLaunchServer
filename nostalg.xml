@@ -13,4 +13,5 @@
 <linkforgetmdp>http://new.nostalg-play.eu/</linkforgetmdp>
 <state>1</state>
 <news>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/news-nostalg.xml</news>
+<connection>web</connection>
 </Nostalg>
