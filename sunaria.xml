@@ -13,4 +13,5 @@
 <linkforgetmdp></linkforgetmdp>
 <state>1</state>
   <news>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/news-sunaria.xml</news>
+  <connection>web</connection>
 </Sunaria>
