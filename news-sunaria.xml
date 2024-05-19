@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+  <maxnews>4</maxnews>
+<!-- ID DE LA NEWS (1,2,3,4etc...) -->
+    <item id="1">
+	<!-- TITRE EN GROS SUR LE LAUNCHER -->
+        <titlefr>NOUVEAU LAUNCHEUR HOKA</titlefr>
+        <titlees>NUEVO LANZADOR HOKA</titlees>
+        <titleen>NEW LAUNCHEUR HOKA</titleen>
+		<!-- LIEN D'UNE IMAGE ( QUI SERAS AFFICHER SUR LE LAUNCHER -->
+        <link>https://wallpapercave.com/wp/wp3076925.jpg</link>
+		<!-- LIEN DE REDIRECTIONS LORSQU'ON CLIQUE SUR L'IMAGE DU LAUNCHER -->
+        <pub>https://nostalg-play.eu/</pub>
+    </item>
+    <item id="2">
+        <titlefr>UNE AVENTURE INCROYABLE VOUS ATTEND !</titlefr>
+        <titlees>TE ESPERA UNA AVENTURA INCREÍBLE</titlees>
+        <titleen>AN INCREDIBLE ADVENTURE AWAITS YOU</titleen>
+        <link>https://wallpapercave.com/wp/wp3077056.jpg</link>
+        <pub>https://nostalg-play.eu/</pub>
+    </item>
+    <item id="3">
+        <titlefr>SPIRIT EST FAIT POUR VOUS !</titlefr>
+        <titlees>¡EL ESPÍRITU ES PARA TI !</titlees>
+        <titleen>SPIRIT IS FOR YOU !</titleen>
+        <link>https://wallpapercave.com/wp/wp3077065.jpg</link>
+        <pub>https://nostalg-play.eu/</pub>
+    </item>
+    <item id="4">
+        <titlefr>NOUVELLE VERSION DE HOKA !</titlefr>
+        <titlees>¡NUEVA VERSIÓN DE HOKA !</titlees>
+        <titleen>NEW VERSION OF HOKA !</titleen>
+        <link>https://wallpapercave.com/wp/wp3077035.jpg</link>
+        <pub>https://nostalg-play.eu/</pub>
+    </item>
+</news>
