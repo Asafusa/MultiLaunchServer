@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Nostalg>
 <name>Nostalg</name>
+<version>V2</version>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/nostalg.png</icon>
 <executable>Nostalg.exe</executable>
 <download></download>
@@ -13,5 +14,5 @@
 <linkforgetmdp>http://new.nostalg-play.eu/</linkforgetmdp>
 <state>1</state>
 <news>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/news-nostalg.xml</news>
-<connection>game</connection>
+<connection>web</connection>
 </Nostalg>
