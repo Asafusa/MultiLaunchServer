@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ToutAnkarton>
 <name>ToutAnkarton</name>
+<version>CHEAT</version>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.png</icon>
 <executable>Ankarton.exe</executable>
 <download></download>
