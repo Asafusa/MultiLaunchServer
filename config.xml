@@ -6,4 +6,5 @@
 <ToutAnkartonLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.xml</ToutAnkartonLauncher>
 <devmode>yes</devmode>
 <select>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/selections.xml</select>
+<hoka>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/hoka.xml</hoka>
 </config>
