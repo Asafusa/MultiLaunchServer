@@ -6,6 +6,7 @@
 <executable>Nostalg.exe</executable>
 <download></download>
 <apy>http://new.nostalg-play.eu/launchasa/apy/accountlaunch.php</apy>
+<apytokens>http://new.nostalg-play.eu/launchasa/apy/tokensinfo.php</apytokens>
 <linkwebsite>http://new.nostalg-play.eu/</linkwebsite>
 <linkdiscord>http://new.nostalg-play.eu/</linkdiscord>
 <linkcreateaccount>http://new.nostalg-play.eu/</linkcreateaccount>
