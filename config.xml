@@ -4,6 +4,7 @@
 <SunariaLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/sunaria.xml</SunariaLauncher>
 <NostalgLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/nostalg.xml</NostalgLauncher>
 <ToutAnkartonLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.xml</ToutAnkartonLauncher>
+<ElyriaLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/elyria.xml</ElyriaLauncher>
 <devmode>yes</devmode>
 <select>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/selections.xml</select>
 <hoka>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/hoka.xml</hoka>
