@@ -1,1 +1,20 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<Elyria>
+<name>Elyria</name>
+<version>2.40</version>
+<icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/elyria.png</icon>
+<executable>Dofus.exe</executable>
+<download></download>
+<apy>http://new.nostalg-play.eu/launchasa/apy/accountlaunch.php</apy>
+<apytokens>http://new.nostalg-play.eu/launchasa/apy/tokensinfo.php</apytokens>
+<linkwebsite>http://new.nostalg-play.eu/</linkwebsite>
+<linkdiscord>http://new.nostalg-play.eu/</linkdiscord>
+<linkcreateaccount>http://new.nostalg-play.eu/</linkcreateaccount>
+<linkshop>http://new.nostalg-play.eu/</linkshop>
+<linksupport>http://new.nostalg-play.eu/</linksupport>
+<linkforgetmdp>http://new.nostalg-play.eu/</linkforgetmdp>
+<state>1</state>
+<news>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/news-elyria.xml</news>
+<connection>web</connection>
+</Elyria>
