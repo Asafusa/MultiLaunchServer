@@ -4,7 +4,7 @@
 <version>V2</version>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/nostalg.png</icon>
 <executable>Nostalg.exe</executable>
-<download></download>
+<download>http://new.nostalg-play.eu/upl/app/</download>
 <apy>http://new.nostalg-play.eu/launchasa/apy/accountlaunch.php</apy>
 <apytokens>http://new.nostalg-play.eu/launchasa/apy/tokensinfo.php</apytokens>
 <linkwebsite>http://new.nostalg-play.eu/</linkwebsite>
