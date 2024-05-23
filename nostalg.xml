@@ -5,7 +5,7 @@
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/nostalg.png</icon>
 <executable>Nostalg.exe</executable>
 <download>http://new.nostalg-play.eu/upl/app/</download>
-<apy>http://new.nostalg-play.eu/launchasa/apy/accountlaunch.php</apy>
+<apy>http://new.nostalg-play.eu/launchasa/apy/AccountHokaLaunch.php</apy>
 <apytokens>http://new.nostalg-play.eu/launchasa/apy/tokensinfo.php</apytokens>
 <linkwebsite>http://new.nostalg-play.eu/</linkwebsite>
 <linkdiscord>http://new.nostalg-play.eu/</linkdiscord>
