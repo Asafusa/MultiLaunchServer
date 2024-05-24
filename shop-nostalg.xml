@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+  <number></number>
+  <item id="1">
+    <name></name>
+    <money></money>
+    <price></price>
+    <buymode></buymode>
+    <icon></icon>
+    <apybuy></apybuy>
+    <link></link>
+  </item>
+  <item id="2">
+    <name></name>
+    <money></money>
+    <price></price>
+    <buymode></buymode>
+    <icon></icon>
+    <apybuy></apybuy>
+    <link></link>
+  </item>
+  <item id="3">
+    <name></name>
+    <money></money>
+    <price></price>
+    <buymode></buymode>
+    <icon></icon>
+    <apybuy></apybuy>
+    <link></link>
+  </item>
+  <item id="4">
+    <name></name>
+    <money></money>
+    <price></price>
+    <buymode></buymode>
+    <icon></icon>
+    <apybuy></apybuy>
+    <link></link>
+  </item>
+  <item id="4">
+    <name></name>
+    <money></money>
+    <price></price>
+    <buymode></buymode>
+    <icon></icon>
+    <apybuy></apybuy>
+    <link></link>
+  </item>
+  <item id="5">
+    <name></name>
+    <money></money>
+    <price></price>
+    <buymode></buymode>
+    <icon></icon>
+    <apybuy></apybuy>
+    <link></link>
+  </item>
+  <item id="6">
+    <name></name>
+    <money></money>
+    <price></price>
+    <buymode></buymode>
+    <icon></icon>
+    <apybuy></apybuy>
+    <link></link>
+  </item>
+  <item id="7">
+    <name></name>
+    <money></money>
+    <price></price>
+    <buymode></buymode>
+    <icon></icon>
+    <apybuy></apybuy>
+    <link></link>
+  </item>
+  <item id="8">
+    <name></name>
+    <money></money>
+    <price></price>
+    <buymode></buymode>
+    <icon></icon>
+    <apybuy></apybuy>
+    <link></link>
+  </item>
+</shop>
