@@ -11,9 +11,9 @@
     <!-- BUYMODE : link or apy -->
     <buymode>link</buymode>
     <!-- ICON OF SLOT -->
-    <icon></icon>
+    <icon>https://www.dofusroom.com/img/assets/items/16643.png</icon>
     <!-- APY WHEN UR REDIRECT IF BUYMODE = apy -->
-    <apybuy></apybuy>
+    <apybuy>none</apybuy>
     <!-- LINK WHEN UR REDIRECT IF BUYMODE = link -->
     <link>http://new.nostalg-play.eu/</link>
   </item>
@@ -22,8 +22,8 @@
     <money>real</money>
     <price>5,50</price>
     <buymode>link</buymode>
-    <icon></icon>
-    <apybuy></apybuy>
+    <icon>https://www.dofusroom.com/img/assets/items/16643.png</icon>
+    <apybuy>none</apybuy>
     <link>http://new.nostalg-play.eu/</link>
   </item>
   <item id="3">
@@ -31,8 +31,8 @@
     <money>real</money>
     <price>5,50</price>
     <buymode>link</buymode>
-    <icon></icon>
-    <apybuy></apybuy>
+    <icon>https://www.dofusroom.com/img/assets/items/16643.png</icon>
+    <apybuy>none</apybuy>
     <link>http://new.nostalg-play.eu/</link>
   </item>
   <item id="4">
@@ -40,8 +40,8 @@
     <money>real</money>
     <price>5,50</price>
     <buymode>link</buymode>
-    <icon></icon>
-    <apybuy></apybuy>
+    <icon>https://www.dofusroom.com/img/assets/items/16643.png</icon>
+    <apybuy>none</apybuy>
     <link>http://new.nostalg-play.eu/</link>
   </item>
 </shop>
