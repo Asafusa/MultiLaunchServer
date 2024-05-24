@@ -1,85 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <shop>
-  <number></number>
+  <number>4</number>
   <item id="1">
-    <name></name>
-    <money></money>
-    <price></price>
-    <buymode></buymode>
+  <!-- NAME OF SLOT -->
+    <name>testest1</name>
+    <!-- MONEY USING, € = real, ogrine = fake -->
+    <money>real</money>
+    <!-- PRICE OF SLOT -->
+    <price>5,50</price>
+    <!-- BUYMODE : link or apy -->
+    <buymode>link</buymode>
+    <!-- ICON OF SLOT -->
     <icon></icon>
+    <!-- APY WHEN UR REDIRECT IF BUYMODE = apy -->
     <apybuy></apybuy>
-    <link></link>
+    <!-- LINK WHEN UR REDIRECT IF BUYMODE = link -->
+    <link>http://new.nostalg-play.eu/</link>
   </item>
   <item id="2">
-    <name></name>
-    <money></money>
-    <price></price>
-    <buymode></buymode>
+    <name>testest2</name>
+    <money>real</money>
+    <price>5,50</price>
+    <buymode>link</buymode>
     <icon></icon>
     <apybuy></apybuy>
-    <link></link>
+    <link>http://new.nostalg-play.eu/</link>
   </item>
   <item id="3">
-    <name></name>
-    <money></money>
-    <price></price>
-    <buymode></buymode>
+    <name>testest3</name>
+    <money>real</money>
+    <price>5,50</price>
+    <buymode>link</buymode>
     <icon></icon>
     <apybuy></apybuy>
-    <link></link>
+    <link>http://new.nostalg-play.eu/</link>
   </item>
   <item id="4">
-    <name></name>
-    <money></money>
-    <price></price>
-    <buymode></buymode>
+    <name>testest4</name>
+    <money>real</money>
+    <price>5,50</price>
+    <buymode>link</buymode>
     <icon></icon>
     <apybuy></apybuy>
-    <link></link>
-  </item>
-  <item id="4">
-    <name></name>
-    <money></money>
-    <price></price>
-    <buymode></buymode>
-    <icon></icon>
-    <apybuy></apybuy>
-    <link></link>
-  </item>
-  <item id="5">
-    <name></name>
-    <money></money>
-    <price></price>
-    <buymode></buymode>
-    <icon></icon>
-    <apybuy></apybuy>
-    <link></link>
-  </item>
-  <item id="6">
-    <name></name>
-    <money></money>
-    <price></price>
-    <buymode></buymode>
-    <icon></icon>
-    <apybuy></apybuy>
-    <link></link>
-  </item>
-  <item id="7">
-    <name></name>
-    <money></money>
-    <price></price>
-    <buymode></buymode>
-    <icon></icon>
-    <apybuy></apybuy>
-    <link></link>
-  </item>
-  <item id="8">
-    <name></name>
-    <money></money>
-    <price></price>
-    <buymode></buymode>
-    <icon></icon>
-    <apybuy></apybuy>
-    <link></link>
+    <link>http://new.nostalg-play.eu/</link>
   </item>
 </shop>
