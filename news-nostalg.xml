@@ -11,6 +11,10 @@
     <link>https://wallpapercave.com/wp/wp3076925.jpg</link>
     <!-- LIEN DE REDIRECTION LORSQU'ON CLIQUE SUR L'IMAGE DU LAUNCHER -->
     <pub>https://nostalg-play.eu/</pub>
+    <!-- AUTEUR DE LA NEWS -->
+    <author>Asafusa</author>
+    <!-- DATE DE LA NEWS -->
+    <date>25/05/24</date>
   </item>
   <item id="2">
     <titlefr>UNE AVENTURE INCROYABLE VOUS ATTEND !</titlefr>
@@ -18,6 +22,8 @@
     <titleen>AN INCREDIBLE ADVENTURE AWAITS YOU</titleen>
     <link>https://wallpapercave.com/wp/wp3077056.jpg</link>
     <pub>https://nostalg-play.eu/</pub>
+    <author>Asafusa</author>
+    <date>25/05/24</date>
   </item>
   <item id="3">
     <titlefr>NOSTALG EST FAIT POUR VOUS !</titlefr>
@@ -25,6 +31,8 @@
     <titleen>NOSTALG IS FOR YOU !</titleen>
     <link>https://wallpapercave.com/wp/wp3077065.jpg</link>
     <pub>https://nostalg-play.eu/</pub>
+    <author>Asafusa</author>
+    <date>25/05/24</date>
   </item>
   <item id="4">
     <titlefr>NOUVELLE VERSION DE HOKA !</titlefr>
@@ -32,5 +40,7 @@
     <titleen>NEW VERSION OF HOKA !</titleen>
     <link>https://wallpapercave.com/wp/wp3077035.jpg</link>
     <pub>https://nostalg-play.eu/</pub>
+    <author>Asafusa</author>
+    <date>25/05/24</date>
   </item>
 </news>
