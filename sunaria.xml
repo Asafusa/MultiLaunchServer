@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Sunaria>
 <name>Sunaria</name>
-  <version>V2</version>
+<subname>V2</subname>
+<version>251</version>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/sunaria.png</icon>
 <executable>Dofus.exe</executable>
 <download></download>
@@ -16,4 +17,5 @@
 <state>1</state>
   <news>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/news-sunaria.xml</news>
   <connection>web</connection>
+  <shop>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/shop-sunaria.xml</shop>
 </Sunaria>

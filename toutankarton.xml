@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ToutAnkarton>
 <name>ToutAnkarton</name>
-<version>CHEAT</version>
+<subname>CHEAT</subname>
+<version>251</version>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.png</icon>
 <executable>Ankarton.exe</executable>
 <download></download>
@@ -16,4 +17,5 @@
 <state>1</state>
   <news>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/news-toutankarton.xml</news>
   <connection>game</connection>
+  <shop>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/shop-toutankarton.xml</shop>
 </ToutAnkarton>

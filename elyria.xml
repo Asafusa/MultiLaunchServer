@@ -17,4 +17,5 @@
 <state>1</state>
 <news>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/news-elyria.xml</news>
 <connection>web</connection>
+<shop>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/shop-elyria.xml</shop>
 </Elyria>
