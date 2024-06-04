@@ -4,7 +4,7 @@
 <name>Elyria</name>
 <version>2.40</version>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/elyria.png</icon>
-<executable>Dofus.exe</executable>
+<executable>Dofus</executable>
 <download></download>
 <apy>http://new.nostalg-play.eu/launchasa/apy/accountlaunch.php</apy>
 <apytokens>http://new.nostalg-play.eu/launchasa/apy/tokensinfo.php</apytokens>

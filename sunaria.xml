@@ -4,7 +4,7 @@
 <subname>V2</subname>
 <version>251</version>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/sunaria.png</icon>
-<executable>Dofus.exe</executable>
+<executable>Dofus</executable>
 <download></download>
 <apy></apy>
 <apytokens></apytokens>

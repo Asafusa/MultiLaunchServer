@@ -4,7 +4,7 @@
 <subname>CHEAT</subname>
 <version>251</version>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.png</icon>
-<executable>Ankarton.exe</executable>
+<executable>Ankarton</executable>
 <download></download>
 <apy></apy>
 <apytokens></apytokens>
