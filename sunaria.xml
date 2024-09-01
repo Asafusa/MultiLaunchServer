@@ -5,17 +5,17 @@
 <version>251</version>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/sunaria.png</icon>
 <executable>Dofus</executable>
-<download></download>
-<apy></apy>
-<apytokens></apytokens>
-<linkwebsite></linkwebsite>
-<linkdiscord></linkdiscord>
-<linkcreateaccount></linkcreateaccount>
-<linkshop></linkshop>
-<linksupport></linksupport>
-<linkforgetmdp></linkforgetmdp>
+<download>http://hoka.sunaria.eu/hoka/upl/app/</download>
+<apy>http://hoka.sunaria.eu/hoka/launchasa/apy/AccountHokaLaunch.php</apy>
+<apytokens>http://hoka.sunaria.eu/hoka/launchasa/apy/TokensHokaLaunch.php</apytokens>
+<linkwebsite>http://hoka.sunaria.eu/hoka/</linkwebsite>
+<linkdiscord>http://hoka.sunaria.eu/hoka/</linkdiscord>
+<linkcreateaccount>http://hoka.sunaria.eu/hoka/</linkcreateaccount>
+<linkshop>http://hoka.sunaria.eu/hoka/</linkshop>
+<linksupport>http://hoka.sunaria.eu/hoka/</linksupport>
+<linkforgetmdp>http://hoka.sunaria.eu/hoka/</linkforgetmdp>
 <state>1</state>
-  <news>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/news-sunaria.xml</news>
-  <connection>web</connection>
-  <shop>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/shop-sunaria.xml</shop>
+<news>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/news-sunaria.xml</news>
+<connection>web</connection>
+<shop>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/shop-sunaria.xml</shop>
 </Sunaria>

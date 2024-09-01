@@ -15,7 +15,7 @@
     <!-- APY WHEN UR REDIRECT IF BUYMODE = apy -->
     <apybuy>none</apybuy>
     <!-- LINK WHEN UR REDIRECT IF BUYMODE = link -->
-    <link>http://new.nostalg-play.eu/</link>
+    <link>http://hoka.sunaria.eu/hoka/</link>
   </item>
   <item id="2">
     <name>testest2</name>
@@ -24,7 +24,7 @@
     <buymode>link</buymode>
     <icon>https://sunaria.eu/utility/image/102629.png</icon>
     <apybuy>none</apybuy>
-    <link>http://new.nostalg-play.eu/</link>
+    <link>http://hoka.sunaria.eu/hoka/</link>
   </item>
   <item id="3">
     <name>testest3</name>
@@ -33,7 +33,7 @@
     <buymode>link</buymode>
     <icon>https://sunaria.eu/utility/image/102629.png</icon>
     <apybuy>none</apybuy>
-    <link>http://new.nostalg-play.eu/</link>
+    <link>http://hoka.sunaria.eu/hoka/</link>
   </item>
   <item id="4">
     <name>testest4</name>
@@ -42,6 +42,6 @@
     <buymode>link</buymode>
     <icon>https://sunaria.eu/utility/image/102629.png</icon>
     <apybuy>none</apybuy>
-    <link>http://new.nostalg-play.eu/</link>
+    <link>http://hoka.sunaria.eu/hoka/</link>
   </item>
 </shop>
