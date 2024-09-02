@@ -8,6 +8,6 @@
 <devmode>yes</devmode>
 <select>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/selections.xml</select>
 <hoka>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/hoka.xml</hoka>
-<apykey>http://new.nostalg-play.eu/launchasa/apy/KeyHokaLaunch.php</apykey>
-<apytrad>http://new.nostalg-play.eu/launchasa/apy/HokaTraductionLaunch.php</apytrad>
+<apykey>http://hoka.sunaria.eu/hoka/apy//KeyHokaLaunch.php</apykey>
+<apytrad>http://hoka.sunaria.eu/hoka/apy//HokaTraductionLaunch.php</apytrad>
 </config>
