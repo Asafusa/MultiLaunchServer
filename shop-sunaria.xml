@@ -11,7 +11,7 @@
     <!-- BUYMODE : link or apy -->
     <buymode>link</buymode>
     <!-- ICON OF SLOT -->
-    <icon>https://sunaria.eu/utility/image/102629.png</icon>
+    <icon>http://hoka.sunaria.eu/utility/image/102629.png</icon>
     <!-- APY WHEN UR REDIRECT IF BUYMODE = apy -->
     <apybuy>none</apybuy>
     <!-- LINK WHEN UR REDIRECT IF BUYMODE = link -->
@@ -22,7 +22,7 @@
     <money>real</money>
     <price>5,50</price>
     <buymode>link</buymode>
-    <icon>https://sunaria.eu/utility/image/102629.png</icon>
+    <icon>http://hoka.sunaria.eu/utility/image/102629.png</icon>
     <apybuy>none</apybuy>
     <link>http://hoka.sunaria.eu/hoka/</link>
   </item>
@@ -31,7 +31,7 @@
     <money>real</money>
     <price>5,50</price>
     <buymode>link</buymode>
-    <icon>https://sunaria.eu/utility/image/102629.png</icon>
+    <icon>http://hoka.sunaria.eu/utility/image/102629.png</icon>
     <apybuy>none</apybuy>
     <link>http://hoka.sunaria.eu/hoka/</link>
   </item>
@@ -40,7 +40,7 @@
     <money>real</money>
     <price>5,50</price>
     <buymode>link</buymode>
-    <icon>https://sunaria.eu/utility/image/102629.png</icon>
+    <icon>http://hoka.sunaria.eu/utility/image/102629.png</icon>
     <apybuy>none</apybuy>
     <link>http://hoka.sunaria.eu/hoka/</link>
   </item>
