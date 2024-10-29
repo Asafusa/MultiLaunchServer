@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Aelys>
+<name>Aelys</name>
+<subname>Semi-Like</subname>
+<version>260</version>
+<icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/server/aelys.png</icon>
+<executable>Dofus</executable>
+<download>http://play-aelys.eu:81/rss/launcher/Client/</download>
+<apy>http://play-aelys.eu:81/rss/hoka/apy/AccountHokaLaunch.php</apy>
+<apytokens>http://play-aelys.eu:81/rss/hoka/apy/TokensHokaLaunch.php</apytokens>
+<linkwebsite>https://play-aelys.eu/</linkwebsite>
+<linkdiscord>https://discord.com/invite/26wjZPqc7K</linkdiscord>
+<linkcreateaccount>https://play-aelys.eu/inscription</linkcreateaccount>
+<linkshop>https://play-aelys.eu/</linkshop>
+<linksupport>https://discord.com/invite/26wjZPqc7K</linksupport>
+<linkforgetmdp>https://play-aelys.eu/compte/mot-de-passe-oublie</linkforgetmdp>
+<state>1</state>
+<news>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/news/news-aelys.xml</news>
+<connection>game</connection>
+<shop>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/shop/shop-aelys.xml</shop>
+</Aelys>

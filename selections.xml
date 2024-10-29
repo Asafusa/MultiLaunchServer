@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <selections>
   <server id="1">
-    <name>NOSTALG V2&#xA;SEMI-LIKE</name>
-    <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/nostalg.png</icon>
-  </server>
-  <server id="2">
-    <name>SUNARIA V2&#xA;CHEAT</name>
-    <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/sunaria.png</icon>
-  </server>
-  <server id="3">
-    <name>TOUT'ANKARTON&#xA;CHEAT</name>
-    <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/toutankarton.png</icon>
-  </server>
-  <server id="4">
-    <name>ELYRIA&#xA;2.40</name>
-    <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/elyria.png</icon>
+    <name>Aelys 2.60&#xA;SEMI-LIKE</name>
+    <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/server/aelys.png</icon>
   </server>
 </selections>
