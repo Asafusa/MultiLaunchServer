@@ -5,7 +5,7 @@
 <devmode>yes</devmode>
 <select>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/selections.xml</select>
 <hoka>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/hoka.xml</hoka>
-<apykey>http://play-aelys.eu:81/rss/hoka/apy/KeyHokaLaunch.php</apykey>
-<apytrad>http://play-aelys.eu:81/rss/hoka/apy/HokaTraductionLaunch.php</apytrad>
+<apykey>https://play-aelys.eu/public/download/hoka/apy/KeyHokaLaunch.php</apykey>
+<apytrad>https://play-aelys.eu/public/download/hoka/apy/HokaTraductionLaunch.php</apytrad>
 <assets>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets.xml</assets>
 </config>
