@@ -18,4 +18,5 @@
 <news>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/news/news-aelys.xml</news>
 <connection>game</connection>
 <shop>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/shop/shop-aelys.xml</shop>
+<discord>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/discord/discord-aelys.xml</discord>
 </Aelys>
