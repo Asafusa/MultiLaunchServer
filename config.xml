@@ -7,4 +7,5 @@
 <hoka>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/hoka.xml</hoka>
 <apykey>http://play-aelys.eu:81/rss/hoka/apy/KeyHokaLaunch.php</apykey>
 <apytrad>http://play-aelys.eu:81/rss/hoka/apy/HokaTraductionLaunch.php</apytrad>
+<assets>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets.xml</assets>
 </config>
