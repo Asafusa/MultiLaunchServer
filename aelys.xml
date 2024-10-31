@@ -19,5 +19,6 @@
 <connection>game</connection>
 <shop>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/shop/shop-aelys.xml</shop>
 <discord>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/discord/discord-aelys.xml</discord>
+<devblog>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/devblog/devblog-aelys.xml</devblog>
 <versionmaj>https://play-aelys.eu/download/launcher/VERSION.xml</versionmaj>
 </Aelys>

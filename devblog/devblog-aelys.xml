@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devblog>
+<item id="1">
+    <!-- TITRE EN GROS SUR LE LAUNCHER -->
+    <titlefr>#1 DEVBLOG : ajouts des prisme</titlefr>
+    <titlees>#1 DEVBLOG : adiciones al prisma</titlees>
+    <titleen>#1 DEVBLOG : prism additions</titleen>
+    <!-- LIEN D'UNE IMAGE QUI SERA AFFICHÉE SUR LE LAUNCHER -->
+    <link>https://wallpapercave.com/wp/wp3076925.jpg</link>
+    <!-- LIEN DE REDIRECTION LORSQU'ON CLIQUE SUR L'IMAGE DU LAUNCHER -->
+    <pub>https://play-aelys.eu/</pub>
+    <!-- AUTEUR DE LA NEWS -->
+    <author>Asafusa</author>
+    <!-- DATE DE LA NEWS -->
+    <date>25/05/24</date>
+  </item>
+  <item id="2">
+    <titlefr>#2 DEVBLOG : ajouts des enclos de guilde</titlefr>
+    <titlees>#2 DEVBLOG : guild paddock additions</titlees>
+    <titleen>#2 DEVBLOG : adiciones a los recintos gremiales</titleen>
+    <link>https://wallpapercave.com/wp/wp3077056.jpg</link>
+    <pub>https://play-aelys.eu/</pub>
+    <author>Asafusa</author>
+    <date>25/05/24</date>
+  </item>
+  <item id="3">
+    <titlefr>#3 DEVBLOG : Ajouts des alliances</titlefr>
+    <titlees>#3 DEVBLOG : incorporaciones a la alianza</titlees>
+    <titleen>#3 DEVBLOG : alliance additions</titleen>
+    <link>https://wallpapercave.com/wp/wp3077065.jpg</link>
+    <pub>https://play-aelys.eu/</pub>
+    <author>Asafusa</author>
+    <date>25/05/24</date>
+  </item>
+</devblog>
