@@ -14,11 +14,17 @@
 <linkshop>https://play-aelys.eu/</linkshop>
 <linksupport>https://discord.com/invite/26wjZPqc7K</linksupport>
 <linkforgetmdp>https://play-aelys.eu/compte/mot-de-passe-oublie</linkforgetmdp>
+<!-- 1 = EN LIGNE - 2 = HORS LIGNE -->
 <state>1</state>
 <news>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/news/news-aelys.xml</news>
+<!-- game = Connection JEU - web = Connection Web - Custom = Connection Customisée -->
 <connection>game</connection>
 <shop>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/shop/shop-aelys.xml</shop>
 <discord>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/discord/discord-aelys.xml</discord>
 <devblog>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/devblog/devblog-aelys.xml</devblog>
 <versionmaj>https://play-aelys.eu/download/launcher/VERSION.xml</versionmaj>
+<linkaddaccount>https://play-aelys.eu/compte/jeu/creation</linkaddaccount>
+<linkvote>https://play-aelys.eu/vote</linkvote>
+<linktransfertogrine>https://play-aelys.eu/compte/profil</linktransfertogrine>
+<linkcreditogrine>https://play-aelys.eu/boutique/paiement/choix-pays</linkcreditogrine>
 </Aelys>
