@@ -8,4 +8,5 @@
 <apykey>https://play-aelys.eu/public/download/hoka/apy/KeyHokaLaunch.php</apykey>
 <apytrad>https://play-aelys.eu/public/download/hoka/apy/HokaTraductionLaunch.php</apytrad>
 <assets>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets.xml</assets>
+<theme>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/theme.xml</theme>
 </config>

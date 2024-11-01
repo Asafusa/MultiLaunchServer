@@ -1,4 +1,5 @@
 <assets>
+    <classic>
     <ACCOUNT_Info_Logo>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/launcher/ACCOUNT%20Info%20Logo.png</ACCOUNT_Info_Logo>
     <ACCOUNT_LOGO>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/launcher/ACCOUNT%20LOGO.png</ACCOUNT_LOGO>
     <ACTU_LOGO>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/launcher/ACTU%20LOGO.png</ACTU_LOGO>
@@ -55,4 +56,5 @@
     <LEFT_BUTTON_SERVEUR_ON>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/launcher/LEFT_BUTTON%20SERVEUR%20ON.png</LEFT_BUTTON_SERVEUR_ON>
     <LEFT_BUTTON_SERVEUR>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/launcher/LEFT_BUTTON%20SERVEUR.png</LEFT_BUTTON_SERVEUR>
     <TROISIEME>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/launcher/TROISIEME.png</TROISIEME>
+    </classic>
 </assets>
