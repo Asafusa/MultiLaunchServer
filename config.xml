@@ -2,7 +2,8 @@
 <config>
 <server>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/server.xml</server>
 <AelysLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/aelys.xml</AelysLauncher>
-<devmode>yes</devmode>
+<!-- yes = activé - no = désactivé -->
+<devmode>no</devmode>
 <select>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/selections.xml</select>
 <hoka>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/hoka.xml</hoka>
 <apykey>https://play-aelys.eu/public/download/hoka/apy/KeyHokaLaunch.php</apykey>
