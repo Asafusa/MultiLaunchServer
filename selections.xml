@@ -2,6 +2,7 @@
 <selections>
   <server id="1">
     <name>Aelys 2.60 SEMI-LIKE</name>
+    <version>2.60</version>
     <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/server/aelys.png</icon>
   </server>
 </selections>
