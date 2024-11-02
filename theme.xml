@@ -3,5 +3,6 @@
   <item id="1">
     <name>Theme Hoka Basic</name>
     <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/theme/logo500x500.png</icon>
+    <theme>base</theme>
   </item>
 </theme>
