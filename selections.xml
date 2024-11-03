@@ -5,4 +5,9 @@
     <version>2.60</version>
     <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/server/aelys.png</icon>
   </server>
+  <server id="2">
+    <name>Atom 2.51 CHEAT</name>
+    <version>2.51</version>
+    <icon>http://185.91.69.216/hoka/xml/assets/server/atom.png</icon>
+  </server>
 </selections>

@@ -2,6 +2,7 @@
 <config>
 <server>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/server.xml</server>
 <AelysLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/aelys.xml</AelysLauncher>
+<AtomLauncher>http://185.91.69.216/hoka/xml/atom.xml</AtomLauncher>
 <!-- yes = activé - no = désactivé -->
 <devmode>yes</devmode>
 <select>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/selections.xml</select>

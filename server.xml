@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <server>
-<maxserver>1</maxserver>
+<maxserver>2</maxserver>
 <availableserver id="1">Aelys</availableserver>
+<availableserver id="2">Atom</availableserver>
 </server>
 
