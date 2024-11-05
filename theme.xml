@@ -5,4 +5,9 @@
     <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/theme/logo500x500.png</icon>
     <theme>base</theme>
   </item>
+  <item id="2">
+    <name>Theme Hoka Blue</name>
+    <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/theme/logoblue500x500.png</icon>
+    <theme>blue</theme>
+  </item>
 </theme>
