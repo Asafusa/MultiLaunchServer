@@ -2,14 +2,13 @@
 <config>
 <server>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/server.xml</server>
 <AelysLauncher>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/aelys.xml</AelysLauncher>
-<AtomLauncher>http://185.91.69.216/hoka/xml/atom.xml</AtomLauncher>
 <!-- yes = activé - no = désactivé -->
 <devmode>yes</devmode>
 <select>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/selections.xml</select>
 <hoka>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/hoka.xml</hoka>
-<apykey>https://play-aelys.eu/public/download/hoka/apy/KeyHokaLaunch.php</apykey>
-<apytrad>https://play-aelys.eu/public/download/hoka/apy/HokaTraductionLaunch.php</apytrad>
-<apycrypt>https://play-aelys.eu/download/hoka/apy/HokaLaunchCrypt.php</apycrypt>
+<apykey>http://127.0.0.1/hoka/api/hoka/KeyHokaLaunch.php</apykey>
+<apytrad>http://127.0.0.1/hoka/api/hoka/HokaTraductionLaunch.php</apytrad>
+<apycrypt>http://127.0.0.1/hoka/api/hoka/HokaLaunchCrypt.php</apycrypt>
 <assets>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets.xml</assets>
 <theme>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/theme.xml</theme>
 </config>
