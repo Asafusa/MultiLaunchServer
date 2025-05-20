@@ -5,15 +5,15 @@
 <version>260</version>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/server/aelys.png</icon>
 <executable>Dofus</executable>
-<download>http://127.0.0.1/hoka/api/server/aelys/Client/</download>
-<apy>http://127.0.0.1/hoka/api/server/aelys/AccountHokaLaunch.php</apy>
-<apytokens>http://127.0.0.1/hoka/api/server/aelys/TokensHokaLaunch.php</apytokens>
-<linkwebsite>https://play-aelys.eu/</linkwebsite>
+<download>http://aelys-game.eu:81/rss/hoka/api/server/aelys/Client/</download>
+<apy>http://aelys-game.eu:81/rss/hoka/api/server/aelys/AccountHokaLaunch.php</apy>
+<apytokens>http://aelys-game.eu:81/rss/hoka/api/server/aelys/TokensHokaLaunch.php</apytokens>
+<linkwebsite>https://aelys-game.eu/</linkwebsite>
 <linkdiscord>https://discord.com/invite/26wjZPqc7K</linkdiscord>
-<linkcreateaccount>https://play-aelys.eu/inscription</linkcreateaccount>
-<linkshop>https://play-aelys.eu/</linkshop>
+<linkcreateaccount>https://aelys-game.eu/inscription</linkcreateaccount>
+<linkshop>https://aelys-game.eu/</linkshop>
 <linksupport>https://discord.com/invite/26wjZPqc7K</linksupport>
-<linkforgetmdp>https://play-aelys.eu/compte/mot-de-passe-oublie</linkforgetmdp>
+<linkforgetmdp>https://aelys-game.eu/compte/mot-de-passe-oublie</linkforgetmdp>
 <!-- 1 = EN LIGNE - 2 = HORS LIGNE -->
 <state>1</state>
 <news>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/news/news-aelys.xml</news>
@@ -22,9 +22,9 @@
 <shop>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/shop/shop-aelys.xml</shop>
 <discord>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/discord/discord-aelys.xml</discord>
 <devblog>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/devblog/devblog-aelys.xml</devblog>
-<versionmaj>http://127.0.0.1/hoka/api/server/aelys/VERSION.xml</versionmaj>
-<linkaddaccount>https://play-aelys.eu/compte/jeu/creation</linkaddaccount>
-<linkvote>https://play-aelys.eu/vote</linkvote>
-<linktransfertogrine>https://play-aelys.eu/compte/profil</linktransfertogrine>
-<linkcreditogrine>https://play-aelys.eu/boutique/paiement/choix-pays</linkcreditogrine>
+<versionmaj>http://aelys-game.eu:81/rss/hoka/api/server/aelys/VERSION.xml</versionmaj>
+<linkaddaccount>https://aelys-game.eu/compte/jeu/creation</linkaddaccount>
+<linkvote>https://aelys-game.eu/vote</linkvote>
+<linktransfertogrine>https://aelys-game.eu/compte/profil</linktransfertogrine>
+<linkcreditogrine>https://aelys-game.eu/boutique/paiement/choix-pays</linkcreditogrine>
 </Aelys>

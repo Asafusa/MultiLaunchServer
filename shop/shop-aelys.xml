@@ -11,37 +11,37 @@
     <!-- BUYMODE : link or apy -->
     <buymode>link</buymode>
     <!-- ICON OF SLOT -->
-    <icon>https://symphonia.lol/utility/image/102629.png</icon>
+    <icon>https://aelys-game.eu:81/rss/utility/image/102629.png</icon>
     <!-- APY WHEN UR REDIRECT IF BUYMODE = apy -->
     <apybuy>none</apybuy>
     <!-- LINK WHEN UR REDIRECT IF BUYMODE = link -->
-    <link>https://play-aelys.eu/</link>
+    <link>https://aelys-game.eu/</link>
   </item>
   <item id="2">
     <name>testest2</name>
     <money>ogrine</money>
     <price>500</price>
     <buymode>link</buymode>
-    <icon>https://symphonia.lol/utility/image/102629.png</icon>
+    <icon>https://aelys-game.eu:81/rss/utility/image/102629.png</icon>
     <apybuy>none</apybuy>
-    <link>https://play-aelys.eu/</link>
+    <link>https://aelys-game.eu/</link>
   </item>
   <item id="3">
     <name>testest3</name>
     <money>ogrine</money>
     <price>500</price>
     <buymode>link</buymode>
-    <icon>https://symphonia.lol/utility/image/102629.png</icon>
+    <icon>https://aelys-game.eu:81/rss/utility/image/102629.png</icon>
     <apybuy>none</apybuy>
-    <link>https://play-aelys.eu/</link>
+    <link>https://aelys-game.eu/</link>
   </item>
   <item id="4">
     <name>testest4</name>
     <money>ogrine</money>
     <price>500</price>
     <buymode>link</buymode>
-    <icon>https://symphonia.lol/utility/image/102629.png</icon>
+    <icon>https://aelys-game.eu:81/rss/utility/image/102629.png</icon>
     <apybuy>none</apybuy>
-    <link>https://play-aelys.eu/</link>
+    <link>https://aelys-game.eu/</link>
   </item>
 </shop>
