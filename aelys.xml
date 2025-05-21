@@ -5,7 +5,7 @@
 <version>260</version>
 <icon>https://raw.githubusercontent.com/Asafusa/MultiLaunchServer/main/assets/server/aelys.png</icon>
 <executable>Dofus</executable>
-<download>http://aelys-game.eu:81/rss/hoka/api/server/aelys/Client/</download>
+<download>http://aelys-game.eu:81/rss/launcher/Client/</download>
 <apy>http://aelys-game.eu:81/rss/hoka/api/server/aelys/AccountHokaLaunch.php</apy>
 <apytokens>http://aelys-game.eu:81/rss/hoka/api/server/aelys/TokensHokaLaunch.php</apytokens>
 <linkwebsite>https://aelys-game.eu/</linkwebsite>
